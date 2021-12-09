@@ -13,7 +13,7 @@ I used the age and plot them with the same threshold_scale using folium. Using t
 *Then extract the data and make multiple choropleth maps using the same threshold_scale to see the difference \
 of crime rate based on age in each NYC borough. 
 
-# DATA GATHERED
+# Data Section
 Age group prrovided by the publicly avaiable data set 
 
 <pre>
@@ -58,7 +58,7 @@ Crime count of each borough based on age
 With all the information I gatered by making choropleth map I found out that ages 24-44 commit the most crime\
 followed by 18-24 then 45-64 then <18 and lastly 65+ who commit the least amount of crimes. 
 
-The list goes from highest to lowest 
+The list goes from highest to lowest based on each borough
 <pre>
 Bronx highest crime rate based on age 
 1) 24-44 
@@ -97,7 +97,12 @@ Staten Island highest crime rate based on age
 </pre>
 
 
-# RESOURCES
+
+
+
+# Citations Section
+Python Code
+
 Resources: geoJson file of NYC https://data.cityofnewyork.us/City-Government/Borough-Boundaries/tqmj-j8zm , 
 Crime data set file https://data.cityofnewyork.us/Public-Safety/NYPD-Arrest-Data-Year-to-Date-/uip8-fykc ,
 Background resources include the schoolChoropleth.py program you can find this in https://stjohn.github.io/teaching/data/fall21/work.html program 16
