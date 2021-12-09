@@ -16,7 +16,7 @@ of crime rate based on age in each NYC borough.
 # DATA GATHERED
 Age group prrovided by the publicly avaiable data set \
 
-AGE_GROUP
+AGE_GROUP \
 0     25-44 \
 1     18-24 \
 2     45-64 \
@@ -24,12 +24,18 @@ AGE_GROUP
 4       65+ 
 
 Crime count of each borough based on age 
-            boro   <18  18-24  25-44  45-64  65+ \
-0          Bronx   931   5138  14496   4456  291 \
-1       Brooklyn  1070   6225  17635   5637  437 \
-2      Manhattan   681   4750  16448   6580  489 \
-3         Queens   586   4766  14156   4754  392 \
-4  Staten Island   140   1052   3111   1011   67 \
+
+            boro   <18  18-24  25-44  45-64  65+ 
+            
+0          Bronx   931   5138  14496   4456  291 
+
+1       Brooklyn  1070   6225  17635   5637  437 
+
+2      Manhattan   681   4750  16448   6580  489 
+
+3         Queens   586   4766  14156   4754  392 
+
+4  Staten Island   140   1052   3111   1011   67 
 
 
 # Charts
@@ -38,44 +44,44 @@ Crime count of each borough based on age
 
 # FINDINGS/RESULTS
 
-With all the information I gatered by making choropleth map I found out that /
+With all the information I gatered by making choropleth map I found out that 
 
-The list goes from highest to lowest /
+The list goes from highest to lowest 
 
-Bronx highest crime rate based on age /
-1) 24-44 /
-2) 18-24 /
-3) 45-64 /
-4) <18 /
-5) 65+ /
+Bronx highest crime rate based on age 
+1) 24-44 
+2) 18-24 
+3) 45-64 
+4) <18 
+5) 65+ 
 
-Brooklyn highest crime rate based on age /
-1) 24-44 /
-2) 18-24 /
-3) 45-64 /
-4) <18 /
-5) 65+ /
+Brooklyn highest crime rate based on age 
+1) 24-44 
+2) 18-24 
+3) 45-64 
+4) <18 
+5) 65+ 
 
-Manhattan highest crime rate based on age /
-1) 24-44 /
-2) 45-64 /
-3) 18-24 /
-4) <18 /
-5) 65+ /
+Manhattan highest crime rate based on age 
+1) 24-44 
+2) 45-64 
+3) 18-24 
+4) <18 
+5) 65+ 
 
-Queens highest crime rate based on age /
-1) 24-44 /
-2) 18-24 /
-3) 45-64 /
-4) <18 /
-5) 65+ /
+Queens highest crime rate based on age 
+1) 24-44 
+2) 18-24 
+3) 45-64 
+4) <18 
+5) 65+ 
 
-Staten Island highest crime rate based on age /
-1) 24-44 /
-2) 18-24 /
-3) 45-64 /
-4) <18 /
-5) 65+ /
+Staten Island highest crime rate based on age 
+1) 24-44 
+2) 18-24 
+3) 45-64 
+4) <18 
+5) 65+ 
 
 
 # RESOURCES
