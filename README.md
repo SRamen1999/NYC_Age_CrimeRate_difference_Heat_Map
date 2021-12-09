@@ -37,12 +37,24 @@ Crime count of each borough based on age
 </pre>
 
 
-# Charts
-<18 /
+# Choropleth Maps
+<18
 ![lessThan18](https://user-images.githubusercontent.com/56932664/145445364-f5dc5b9c-04db-4a14-a552-c2fd1eb35dd4.PNG)
 
-# FINDINGS/RESULTS
+18-24
+![18-24](https://user-images.githubusercontent.com/56932664/145448326-c13250ef-1e4c-4989-9c6f-89a29469d1d8.PNG)
 
+25-44
+![25-44](https://user-images.githubusercontent.com/56932664/145448343-d7e1b965-8d4b-4c7c-974c-23091a0ace92.PNG)
+
+45-64
+![45-64](https://user-images.githubusercontent.com/56932664/145448371-6d86ad75-06ea-486c-a389-394b94772bb6.PNG)
+
+65+
+![65Plus](https://user-images.githubusercontent.com/56932664/145448391-219c5583-fc0b-4557-9904-ffbb4316c208.PNG)
+
+
+# FINDINGS/RESULTS
 With all the information I gatered by making choropleth map I found out that 
 
 The list goes from highest to lowest 
