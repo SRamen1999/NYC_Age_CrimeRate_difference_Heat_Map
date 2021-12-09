@@ -25,18 +25,12 @@ AGE_GROUP \
 
 Crime count of each borough based on age 
 
-
-*            boro   <18  18-24  25-44  45-64  65+ 
-            
-*0          Bronx   931   5138  14496   4456  291 
-
-*1       Brooklyn  1070   6225  17635   5637  437 
-
-*2      Manhattan   681   4750  16448   6580  489 
-
-*3         Queens   586   4766  14156   4754  392 
-
-(4  Staten Island   140   1052   3111   1011   67 
+boro   <18  18-24  25-44  45-64  65+ \    
+0          Bronx   931   5138  14496   4456  291 
+1       Brooklyn  1070   6225  17635   5637  437 
+2      Manhattan   681   4750  16448   6580  489 
+3         Queens   586   4766  14156   4754  392 
+4  Staten Island   140   1052   3111   1011   67 
 
 
 # Charts
