@@ -1,7 +1,9 @@
 # NYC_Age_CrimeRate_difference_Heat_Map
 data science project
 
-# Project Data Science:ad NYC Age Crime Rate Heat Map: Project Overview
+# Project Data Science: NYC Age Crime Rate difference Heat Map: Project Overview
+
+![title image](https://user-images.githubusercontent.com/56932664/145450968-e8cdd9ca-341a-4f6b-b92b-e7f7f81cfd9e.jpg)
 
 # ABSTRACT
 My focus for this project is to verify my preconceived notions about different age groups in NYC.\
@@ -9,13 +11,17 @@ My approach to solving this problem is by using data science to sort publicly av
 I used the age and plot them with the same threshold_scale using folium. Using the given borough names in the data set.
 
 # OBJECTIVE
-*Use publicly avaibale police data that reports crimes in different areas around NYC. \
-*Then extract the data and make multiple choropleth maps using the same threshold_scale to see the difference \
+Use publicly avaibale police data that reports crimes in different areas around NYC. \
+Then extract the data and make multiple choropleth maps using the same threshold_scale to see the difference \
 of crime rate based on age in each NYC borough. 
 
-# Data Section
-Age group prrovided by the publicly avaiable data set 
+# Hypothesis
+My underlying hypothesis on this topic is people who just turn to adulthood commit more crimes. 
 
+# Data Section
+The data set I used is Public-Safety NYPD-Arrest-Data-Year-to-Date. 
+
+Age group prrovided by the publicly avaiable data set is
 <pre>
     AGE_GROUP
 0     25-44 
@@ -23,6 +29,16 @@ Age group prrovided by the publicly avaiable data set
 2     45-64 
 3       <18 
 4       65+ 
+</pre>
+
+The boroughs in the dataset includes
+<pre>
+          ARREST_BORO
+0           Bronx
+1            Kings county
+2           Queens
+3           Manhattan
+4           Staten island
 </pre>
 
 Crime count of each borough based on age 
@@ -36,6 +52,17 @@ Crime count of each borough based on age
 4  Staten Island   140   1052   3111   1011   67 
 </pre>
 
+I also used a geojson file of the 5 boroughs in NYC called Borough Boundaries.
+This geojson file has all the longitude and latitude of all 5 brorughs which allows use to create
+a ChoroplethMap using folium.
+
+# techniques section
+I began by downloading the geojson file and the Public-Safety NYPD-Arrest-Data-Year-to-Date csv file. \
+I downloaded/scraped the data using requests. I then read the files using pandas. \
+After that I Change the name of the borough to its full name so I could plot them on the folium map. \
+Then I filtered the data by using pandasql to create 5 different data frames based on certain age groups,inaddition \
+to adding a count column displaying the total amount of crimes in each borough. \
+Then I created a function called makeChoroplethMap using folium. Here I created 5 different ChoroplethMap shown below.
 
 # Choropleth Maps
 <18
@@ -55,8 +82,8 @@ Crime count of each borough based on age
 
 
 # FINDINGS/RESULTS
-With all the information I gatered by making choropleth map I found out that ages 24-44 commit the most crime\
-followed by 18-24 then 45-64 then <18 and lastly 65+ who commit the least amount of crimes. 
+With all the information I gatered by making choropleth map I found out that my hypothesis was wrong.
+Instead ages 24-44 commit the most crime followed by 18-24 then 45-64 then <18 and lastly 65+ who commit the least amount of crimes. 
 
 The list goes from highest to lowest based on each borough
 <pre>
@@ -95,9 +122,6 @@ Staten Island highest crime rate based on age
 4) <18 
 5) 65+ 
 </pre>
-
-
-
 
 
 # Citations Section
