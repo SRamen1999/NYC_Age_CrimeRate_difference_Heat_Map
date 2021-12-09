@@ -4,24 +4,24 @@ data science project
 # Project Data Science:ad NYC Age Crime Rate Heat Map: Project Overview
 
 # ABSTRACT
-My focus for this project is to verify my preconceived notions about different age groups in NYC. <br /> 
-My approach to solving this problem is by using data science to sort publicly avaiable crime data set. <br />
-I used the age and plot them with the same threshold_scale using folium. Using the given borough names in the data set.
+My focus for this project is to verify my preconceived notions about different age groups in NYC.\
+My approach to solving this problem is by using data science to sort publicly avaiable crime data set. \
+I used the age and plot them with the same threshold_scale using folium. Using the given borough names in the data set. \
 
 # OBJECTIVE
-*Use publicly avaibale police data that reports crimes in different areas around NYC. <br />
-*Then extract the data and make multiple choropleth maps using the same threshold_scale to see the difference <br />
-of crime rate based on age in each NYC borough. 
+*Use publicly avaibale police data that reports crimes in different areas around NYC. \
+*Then extract the data and make multiple choropleth maps using the same threshold_scale to see the difference \
+of crime rate based on age in each NYC borough. \
 
 # DATA GATHERED
-Age group prrovided by the publicly avaiable data set <br />
+Age group prrovided by the publicly avaiable data set \
 
-    AGE_GROUP
-0     25-44
-1     18-24
-2     45-64
-3       <18
-4       65+
+    AGE_GROUP \
+0     25-44 \
+1     18-24 \
+2     45-64 \
+3       <18 \
+4       65+ \
 
 Crime count of each borough based on age <br />
             boro   <18  18-24  25-44  45-64  65+
