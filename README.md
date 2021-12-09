@@ -33,7 +33,7 @@ Crime count of each borough based on age
 
 
 # Charts
-
+![lessThan18](https://user-images.githubusercontent.com/56932664/145445364-f5dc5b9c-04db-4a14-a552-c2fd1eb35dd4.PNG)
 
 # FINDINGS/RESULTS
 
