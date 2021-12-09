@@ -16,12 +16,14 @@ of crime rate based on age in each NYC borough.
 # DATA GATHERED
 Age group prrovided by the publicly avaiable data set 
 
-AGE_GROUP \
-0     25-44 \
-1     18-24 \
-2     45-64 \
-3       <18 \
+<pre>
+    AGE_GROUP
+0     25-44 
+1     18-24 
+2     45-64 
+3       <18 
 4       65+ 
+</pre>
 
 Crime count of each borough based on age 
 
