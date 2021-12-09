@@ -14,7 +14,7 @@ I used the age and plot them with the same threshold_scale using folium. Using t
 of crime rate based on age in each NYC borough. 
 
 # DATA GATHERED
-Age group prrovided by the publicly avaiable data set \
+Age group prrovided by the publicly avaiable data set 
 
 AGE_GROUP \
 0     25-44 \
@@ -23,19 +23,20 @@ AGE_GROUP \
 3       <18 \
 4       65+ 
 
-Crime count of each borough based on age \
+Crime count of each borough based on age 
 
-0           boro   <18  18-24  25-44  45-64  65+ 
+
+*            boro   <18  18-24  25-44  45-64  65+ 
             
-0          Bronx   931   5138  14496   4456  291 
+*0          Bronx   931   5138  14496   4456  291 
 
-1       Brooklyn  1070   6225  17635   5637  437 
+*1       Brooklyn  1070   6225  17635   5637  437 
 
-2      Manhattan   681   4750  16448   6580  489 
+*2      Manhattan   681   4750  16448   6580  489 
 
-3         Queens   586   4766  14156   4754  392 
+*3         Queens   586   4766  14156   4754  392 
 
-4  Staten Island   140   1052   3111   1011   67 
+(4  Staten Island   140   1052   3111   1011   67 
 
 
 # Charts
