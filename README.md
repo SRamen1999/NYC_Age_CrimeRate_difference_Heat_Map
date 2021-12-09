@@ -23,9 +23,9 @@ AGE_GROUP \
 3       <18 \
 4       65+ 
 
-Crime count of each borough based on age 
+Crime count of each borough based on age \
 
-*           boro   <18  18-24  25-44  45-64  65+ 
+0           boro   <18  18-24  25-44  45-64  65+ 
             
 0          Bronx   931   5138  14496   4456  291 
 
