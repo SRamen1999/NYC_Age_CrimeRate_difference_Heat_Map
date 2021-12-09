@@ -55,7 +55,8 @@ Crime count of each borough based on age
 
 
 # FINDINGS/RESULTS
-With all the information I gatered by making choropleth map I found out that 
+With all the information I gatered by making choropleth map I found out that ages 24-44 commit the most crime\
+followed by 18-24 then 45-64 then <18 and lastly 65+ who commit the least amount of crimes. 
 
 The list goes from highest to lowest 
 <pre>
