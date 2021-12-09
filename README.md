@@ -1,7 +1,6 @@
 # NYC_Age_CrimeRate_difference_Heat_Map
 data science project
 
-
 # Project Data Science:ad NYC Age Crime Rate Heat Map: Project Overview
 *Use publicly avaibale police data that reports crimes in different areas around NYC.
 
