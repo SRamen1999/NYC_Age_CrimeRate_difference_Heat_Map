@@ -125,10 +125,11 @@ Staten Island highest crime rate based on age
 
 
 # Citations Section
-Python Code: https://github.com/SRamen1999/NYC_AGE_CrimeRate_Choropleth.py/blob/main/NYC_AGE_CrimeRate_Choropleth.py 
+[Python Code](https://github.com/SRamen1999/NYC_AGE_CrimeRate_Choropleth.py/blob/main/NYC_AGE_CrimeRate_Choropleth.py)
+ 
+Resources: 
+[GeoJson file of NYC](https://data.cityofnewyork.us/City-Government/Borough-Boundaries/tqmj-j8zm)
 
-Resources: geoJson file of NYC https://data.cityofnewyork.us/City-Government/Borough-Boundaries/tqmj-j8zm 
+[Crime data set file](https://data.cityofnewyork.us/Public-Safety/NYPD-Arrest-Data-Year-to-Date-/uip8-fykc) 
 
-Crime data set file https://data.cityofnewyork.us/Public-Safety/NYPD-Arrest-Data-Year-to-Date-/uip8-fykc 
-
-Background resources include the schoolChoropleth.py program you can find this in https://stjohn.github.io/teaching/data/fall21/work.html program 16
+Background resources include the schoolChoropleth.py program you can find this in (https://stjohn.github.io/teaching/data/fall21/work.html) program 16
