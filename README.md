@@ -7,7 +7,7 @@ data science project
 
 # ABSTRACT
 My focus for this project is to verify my preconceived notions about different age groups in NYC.\
-My approach to solving this problem is by using data science to sort publicly avaiable crime data set. \
+My approach to solving this problem is by using data science to sort publicly available crime data set. \
 I used the age and plot them with the same threshold_scale using folium. Using the given borough names in the data set.
 
 # OBJECTIVE
@@ -127,6 +127,8 @@ Staten Island highest crime rate based on age
 # Citations Section
 Python Code
 
-Resources: geoJson file of NYC https://data.cityofnewyork.us/City-Government/Borough-Boundaries/tqmj-j8zm , 
+Resources: geoJson file of NYC https://data.cityofnewyork.us/City-Government/Borough-Boundaries/tqmj-j8zm ,
+
 Crime data set file https://data.cityofnewyork.us/Public-Safety/NYPD-Arrest-Data-Year-to-Date-/uip8-fykc ,
+
 Background resources include the schoolChoropleth.py program you can find this in https://stjohn.github.io/teaching/data/fall21/work.html program 16
