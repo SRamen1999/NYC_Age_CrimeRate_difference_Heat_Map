@@ -58,7 +58,7 @@ Crime count of each borough based on age
 With all the information I gatered by making choropleth map I found out that 
 
 The list goes from highest to lowest 
-
+<pre>
 Bronx highest crime rate based on age 
 1) 24-44 
 2) 18-24 
@@ -93,6 +93,7 @@ Staten Island highest crime rate based on age
 3) 45-64 
 4) <18 
 5) 65+ 
+</pre>
 
 
 # RESOURCES
