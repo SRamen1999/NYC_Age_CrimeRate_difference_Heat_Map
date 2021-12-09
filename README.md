@@ -125,7 +125,7 @@ Staten Island highest crime rate based on age
 
 
 # Citations Section
-Python Code: [https://github.com/SRamen1999/NYC_AGE_CrimeRate_Choropleth.py/blob/main/NYC_AGE_CrimeRate_Choropleth.py(https://github.com/SRamen1999/NYC_AGE_CrimeRate_Choropleth.py/blob/main/NYC_AGE_CrimeRate_Choropleth.py)
+Python Code:[https://github.com/SRamen1999/NYC_AGE_CrimeRate_Choropleth.py/blob/main/NYC_AGE_CrimeRate_Choropleth.py](https://github.com/SRamen1999/NYC_AGE_CrimeRate_Choropleth.py/blob/main/NYC_AGE_CrimeRate_Choropleth.py)
  
 Resources: 
 
